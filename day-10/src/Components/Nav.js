@@ -7,10 +7,12 @@ export class Nav extends Component {
         return (
             <nav>
                  <Link to = '/'>
-                    <img width = "60" src = {"https://1000logos.net/wp-content/uploads/2017/08/Spotify-Logo.png"} alt = "store"
+                    <img width = "60" src = {"https://icon-library.com/images/black-spotify-icon/black-spotify-icon-17.jpg"} alt = "store"
                     className = "menu-img" />
                 </Link>
-                <h3>Spotify</h3>
+                <Link to = '/' className="head2">
+                <h3 className = "head1">Spotify</h3>
+                </Link>
                 <ul className="nav-links">
                     <Link to = "/addalbum " className = "nav-links-1">
                     <li>Add Album</li>

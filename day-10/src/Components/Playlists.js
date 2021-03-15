@@ -11,7 +11,7 @@ const Playlists = props => {
       category_id: 3,
       name: 'Top Hits Tamil',
       img:
-        'https://i.pinimg.com/564x/a5/a6/ee/a5a6ee6b9cfff53c010c2b9d400cb10e.jpg',
+        'https://i.pinimg.com/564x/09/65/61/096561e53e9f13f0b5146fe1576b3e6f.jpg',
       desc: 'Description',
     },
     {
@@ -19,7 +19,7 @@ const Playlists = props => {
       category_id: 3,
       name: 'Trending Tamil',
       img:
-        'https://i.pinimg.com/564x/b6/ce/f9/b6cef9a9743381470c51f0ae308f69e8.jpg',
+        'https://i.pinimg.com/564x/84/9b/c7/849bc7dc6344f2cd29ffdf2b67b588e5.jpg',
       desc: 'Description',
     },
     {
@@ -43,7 +43,7 @@ const Playlists = props => {
       category_id: 4,
       name: 'Top Hits Hindi',
       img:
-        'https://i.pinimg.com/564x/a5/a6/ee/a5a6ee6b9cfff53c010c2b9d400cb10e.jpg',
+        'https://i.pinimg.com/564x/30/07/5e/30075ef517e8b96178c59a87d566739e.jpg',
       desc: 'Description',
     },
     {
@@ -51,7 +51,7 @@ const Playlists = props => {
       category_id: 2,
       name: 'Top Hits Telugu ',
       img:
-        'https://i.pinimg.com/564x/a5/a6/ee/a5a6ee6b9cfff53c010c2b9d400cb10e.jpg',
+        'https://i.pinimg.com/564x/9b/7a/d3/9b7ad344cdb287efb377408e646e31a4.jpg',
       desc: 'Description',
     },
     {
